@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 
 I am a Computer Science student at the University of Beira Interior, born and raised right here in **Covilhã**! 🏔️
 
