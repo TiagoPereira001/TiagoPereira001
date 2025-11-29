@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently a student at the University of Beira Interior, studying Informática web, móvel e na nuvem!<br>Right now, I am learning Java, Python, databases, and virtualization!<br>I enjoy programming and am always eager to learn more!
+# 💫 About Me:
+
+I am a Computer Science student at the University of Beira Interior, born and raised right here in **Covilhã**! 🏔️
+
+My passion for computers started at a very young age, and I haven't stopped exploring technology since. Currently, I am refining my skills through my degree, focusing on **Java, Python, and Cloud Computing**, while always looking for the next challenge to learn something new.
+
+When I'm not coding or studying, you can usually find me **playing video games** or exploring new tech trends! 🎮
 
 
 ## 🌐 Socials:
