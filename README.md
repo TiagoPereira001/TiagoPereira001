@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I am a Computer Science student at the University of Beira Interior, born and raised right here in **Covilhã**! 🏔️
+I am a Computer Science student at the University of Beira Interior, born in Schaffhausen and raised right here in **Covilhã**! 🏔️
 
 My passion for computers started young, and I haven't stopped exploring since. While I'm refining my skills in **Java, Python, and Cloud Computing**, I am currently focused on **Mobile Development**.
 
