@@ -18,7 +18,7 @@
 
 I was born in Schaffhausen, Switzerland, and grew up in Covilhã, where I still live.
 
-I didn't start in computing. I took a vocational course in hotel reception and did internships at the Serra da Estrela Youth Hostel and Hotel Dona Maria. It's where I got comfortable talking to people, and it still helps now that I work in a team. After that I went to UBI to study Web, Mobile and Cloud Engineering, and I'm now in my final year.
+I didn't start in computing. I took a vocational course in hotel reception and did internships at the Serra da Estrela Youth Hostel and Hotel Dona Maria. Working there also helped me overcome my stutter and communicate better with people, and that still helps now that I work in a team. After that I went to UBI to study Web, Mobile and Cloud Engineering, and I'm now in my final year.
 
 Since February 2026 I've been a backend developer at STAR Junior Enterprise. I'm on the team building a chatbot, I spend most of my time on APIs, and I've started helping train the trainees who join the team.
 
