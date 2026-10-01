@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Tiago Dias Pereira — Full-Stack Developer, Finalista em Informática Web, Móvel e na Nuvem · UBI" width="100%">
+  <img src="assets/banner_github.jpg" alt="Tiago Dias Pereira — Full-Stack Developer, Finalista em Informática Web, Móvel e na Nuvem · UBI" width="100%">
 </p>
 
 ## 💫 About Me
