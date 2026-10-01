@@ -12,6 +12,7 @@
   <a href="https://tiago.md"><img src="https://img.shields.io/badge/tiago.md-0d1117?style=for-the-badge&logoColor=white" alt="Website: tiago.md"></a>
   <a href="https://www.linkedin.com/in/tiagodpereira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:geral@tiago.md"><img src="https://img.shields.io/badge/geral@tiago.md-30363d?style=for-the-badge&logo=icloud&logoColor=white" alt="Email: geral@tiago.md"></a>
+  <a href="https://tiago.md/cv-tiago-dias-pereira.pdf"><img src="https://img.shields.io/badge/CV-PDF-58a6ff?style=for-the-badge" alt="CV (PDF)"></a>
 </p>
 
 ## About me
@@ -42,9 +43,11 @@ React, Node.js with Express, SQL Server and Docker. It's still in development an
 
 ### Other projects
 
+- **[RheinfallCamping](https://rheinfallcamping.pt)**: the website for my family's motorhome business, built from scratch in 2026 and live.
+- **[GreenHerb](https://tiago.md/projetos/)** and **[GenJazz UI](https://tiago.md/projetos/)**: university group projects. In GreenHerb I did part of the backend and the APIs; in GenJazz UI I did most of the project, from backend to frontend.
+- **EcoRoute**: a group project where I did the backend and the connection to the APIs.
 - **Bomba & Ficha**: a native Android app to manage petrol and electric cars, with my own electric range calculations (Room/SQLite).
-- **RheinfallCamping**: redesigned in Figma and rebuilt, with proper link previews when it's shared.
-- **VR environment**: a 3D scene for the Meta Quest 3, modelled in Blender and tuned in Unity to run smoothly on the headset.
+- **VR game**: a group game for the Meta Quest 3, built in Unity from a 3D scan of my house.
 
 The full write-ups (the problem, what I decided and how it turned out) are on **[tiago.md/projetos](https://tiago.md/projetos/)**.
 
